@@ -1,2 +1,2 @@
-# magisk-files-
-Update Channels
+# Update Channels
+This repository hosts Magisk Update Channels
