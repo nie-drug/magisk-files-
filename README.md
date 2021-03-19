@@ -1,2 +1,2 @@
-# Update Channels
-This repository hosts Magisk Update Channels
+# Update channels
+This repository includes update channels
